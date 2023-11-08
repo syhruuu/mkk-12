@@ -1,0 +1,111 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
+    gap: 35px;
+    background-color: whitesmoke;
+    padding: 10px;
+  }
+
+  .grid-container > div {
+    background-color: rgb(253, 173, 0);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+  }
+
+  .grid-container1 {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    gap: 20px;
+    background-color: whitesmoke;
+    padding: 10px;
+  }
+  
+  .grid-container1 > div {
+    background-color: rgba(253, 173, 0);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+  }
+
+  .grid-container2 {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    gap: 20px;
+    background-color: whitesmoke;
+    padding: 10px;
+  }
+  
+  .grid-container2 > div {
+    background-color: rgba(253, 173, 0);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+  }
+
+  .grid-container3 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    background-color: whitesmoke;
+    padding: 10px;
+  }
+  
+  .grid-container3 > div {
+    background-color: rgba(253, 173, 0);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+  }
+
+  .grid-container4 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+    background-color: whitesmoke;
+    padding: 10px;
+  }
+  
+  .grid-container4 > div {
+    background-color: rgba(253, 173, 0);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+  }
+
+  .grid-container5 {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20px;
+    background-color: whitesmoke;
+    padding: 10px;
+  }
+  
+  .grid-container5 > div {
+    background-color: rgba(253, 173, 0);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+  }
+
+  .grid-container6 {
+    display: grid;
+    grid-template-columns: auto;
+    gap: 10px;
+    background-color: whitesmoke;
+    padding: 10px;
+  }
+  
+  .grid-container6 > div {
+    background-color: rgba(253, 173, 0);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+  }
